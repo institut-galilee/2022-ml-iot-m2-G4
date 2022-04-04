@@ -27,4 +27,9 @@ Feel free also to provide suggestions for improvement or additional features tha
 * an original idea of Aomar Osmani (ao@lipn.univ-paris13.fr)
 * all students who will contribute for the improvement of the system
 
-## License
+## To see the work of the group 4
+To see the work of Pranavan, Myriam and Maha you need to follow the command.
+- Clone the project
+- We have created the two developement branch `dev_pranavan` and `dev_myriam`
+- To change the branch `git checkout <name_of_branch>`
+
