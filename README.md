@@ -1,5 +1,13 @@
 # 2021-ExamMonitoringSystem
 
+## Group 4 work
+To see the work of Pranavan, Myriam and Maha you need to follow the command.
+- Clone the project
+- We have created two developement branch `dev_pranavan` and `dev_myriam`
+- To change the branch `git checkout <name_of_branch>`
+- And follow the `README.md`
+
+
 <p align="center">
     <img src="doc/img/ExamMonitoringSystem_minimal_configuration.png" width="700px" alt="ExamMonitoringSystem_minimal_configuration">
 </p>
@@ -27,9 +35,4 @@ Feel free also to provide suggestions for improvement or additional features tha
 * an original idea of Aomar Osmani (ao@lipn.univ-paris13.fr)
 * all students who will contribute for the improvement of the system
 
-## To see the work of the group 4
-To see the work of Pranavan, Myriam and Maha you need to follow the command.
-- Clone the project
-- We have created the two developement branch `dev_pranavan` and `dev_myriam`
-- To change the branch `git checkout <name_of_branch>`
 
