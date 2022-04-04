@@ -4,7 +4,8 @@
 - Then launch this command `pip3 install -r requirements.txt ` to install required python package.
 - Finally type `python3 main.py`to run the program.
 
-- Once the program start you can say some word listed in string pattern (in ther terminal) for example 'placement, teacher, test, school, etc. '. Once these words are detected by the program there will be a cheating.mp3 audio file will alerte the professeur then the programme will stop automatically
+
+Once the program start you can say some word listed in string pattern (in ther terminal) for example 'placement, teacher, test, school, etc. '. Once these words are detected by the program there will be a cheating.mp3 audio file will alerte the professeur then the programme will stop automatically
 
 ### You can also see the webcam detect some object like 'person, bicycle, car, etc.'.
 ### Object which are detectable by the webcam are listed in `coco.names`  
