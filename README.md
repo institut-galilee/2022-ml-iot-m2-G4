@@ -4,7 +4,7 @@
     <img src="doc/img/ExamMonitoringSystem_minimal_configuration.png" width="700px" alt="ExamMonitoringSystem_minimal_configuration">
 </p>
 
-## Mobile App
+## Mobile Application
 <p align="center">
     <kbd>
         <img src="doc/img/ExamMonitoringSystem_MobileApp.gif" width="350px">
