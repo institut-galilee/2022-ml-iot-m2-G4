@@ -7,6 +7,7 @@ To see the work of Pranavan, Myriam and Maha you need to follow the command.
 - To change the branch `git checkout remotes/origin/dev_pranavan` to see Pranavan's code source and to see Myriam's code source `git checkout remotes/origin/dev_myriam`
 - And follow the `README.md`
 
+## Project explanation
 
 <p align="center">
     <img src="doc/img/ExamMonitoringSystem_minimal_configuration.png" width="700px" alt="ExamMonitoringSystem_minimal_configuration">
