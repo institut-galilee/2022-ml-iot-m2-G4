@@ -2,6 +2,7 @@
 - Make sure python3.9 is installed: `python3 --version`
 - Launch this command to install developpment setup for the application `sudo apt-get install python3.9-dev libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0`
 - Then launch this command `pip3 install -r requirements.txt ` to install required python package.
+- Then type this commande to `cd src`
 - Finally type `python3 main.py`to run the program.
 
 
