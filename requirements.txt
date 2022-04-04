@@ -1,0 +1,5 @@
+SpeechRecognition
+PyMuPDF
+pygame
+PyAudio
+opencv-python
