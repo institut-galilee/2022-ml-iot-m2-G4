@@ -5,10 +5,9 @@
 - Finally type `python3 main.py`to run the program.
 
 
-Once the program start you can say some word listed in string pattern (in ther terminal) for example 'placement, teacher, test, school, etc. '. Once these words are detected by the program there will be a cheating.mp3 audio file will alerte the professeur then the programme will stop automatically
-
-### You can also see the webcam detect some object like 'person, bicycle, car, etc.'.
-### Object which are detectable by the webcam are listed in `coco.names`  
+Once the program start you can say some word listed in string pattern (in ther terminal) for example 'placement, teacher, test, school, etc. '. Once these words are detected by the program there will be a cheating.mp3 audio file will alerte the professeur then the programme will stop automatically<br>
+You can also see the webcam detect some object like 'person, bicycle, car, etc.'.<br>
+Object which are detectable by the webcam are listed in `coco.names`  
 
 ## Help
 - If you have `_portaudio as pa` error go to this [site](https://stackoverflow.com/questions/20023131/cannot-install-pyaudio-gcc-error) and try to run the steps mention in it. 
