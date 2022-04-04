@@ -4,7 +4,7 @@
 To see the work of Pranavan, Myriam and Maha you need to follow the command.
 - Clone the project
 - We have created two developement branch `dev_pranavan` and `dev_myriam`
-- To change the branch `git checkout <name_of_branch>`
+- To change the branch `git checkout remotes/origin/dev_pranavan` to see Pranavan's code source and to see Myriam's code source `git checkout remotes/origin/dev_myriam`
 - And follow the `README.md`
 
 
