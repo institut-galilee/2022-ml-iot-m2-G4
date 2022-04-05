@@ -19,7 +19,7 @@ The object which are detectable by the webcam are listed in `coco.names`
     - For  Communication with PC using Android: https://www.geeksforgeeks.org/how-to-communicate-with-pc-using-android/
     - For TensorFlow Lite Object Detection Android: https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android
 
-We used these sites to test our basci application and then we developed according to our application
+We used these sites to test our basic application and then we developed according to our application
 
 ## Help
 - If you have `_portaudio as pa` error go to this [site](https://stackoverflow.com/questions/20023131/cannot-install-pyaudio-gcc-error) and try to run the steps mention in it. 
